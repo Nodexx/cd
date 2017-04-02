@@ -269,28 +269,28 @@ ChromeMetrics:
 
 Fonts:
 	Regular:
-		Font:./mods/common/FreeSans.ttf
+		Font: common|FreeSans.ttf
 		Size:14
 	Bold:
-		Font:./mods/cd/fonts/TiberiumFont.ttf
+		Font:cd|fonts/TiberiumFont.ttf
 		Size:14
 	Title:
-		Font:./mods/common/FreeSansBold.ttf
+		Font: common|FreeSansBold.ttf
 		Size:32
 	BigBold:
-		Font:./mods/common/FreeSansBold.ttf
+		Font: common|FreeSansBold.ttf
 		Size:24
 	MediumBold:
-		Font:./mods/common/FreeSansBold.ttf
+		Font: common|FreeSansBold.ttf
 		Size:18
 	Small:
-		Font:./mods/common/FreeSans.ttf
+		Font: common|FreeSans.ttf
 		Size:12
 	Tiny:
-		Font:./mods/common/FreeSans.ttf
+		Font: common|FreeSans.ttf
 		Size:10
 	TinyBold:
-		Font:./mods/common/FreeSansBold.ttf
+		Font: common|FreeSansBold.ttf
 		Size:10
 
 SupportsMapsFrom: ts, cd
